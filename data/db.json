@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Mūsų pirmas įrašas",
+      "body": "Nuostabus pirmas įrašas",
+      "autorius": "Andrius",
+      "id": "1"
+    },
+    {
+      "title": "Mūsų antras įrašas",
+      "body": "Nuostabus antras įrašas",
+      "autorius": "Diana",
+      "id": "2"
+    }
+  ]
+}
